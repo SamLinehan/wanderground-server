@@ -1,0 +1,21 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-scss-lint": "^0.3.9"
+  },
+  "dependencies": {
+    "cors": "^2.7.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
