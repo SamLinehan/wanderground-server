@@ -1,7 +1,7 @@
 #Wanderground Back-End
 
 ##Description
-This repo is the node.js server for Wanderground. The server is making the API request to Open Weather Map request. The reason for requesting this data through a server was because of security measures to protect the API key.
+This repo is the node.js server for Wanderground. The server is making the API request to Open Weather Map. The reason for requesting this data through a server was because of security measures to protect the API key.
 
 ##Development
 After cloning, download all npm packages:
